@@ -21,7 +21,7 @@
 
 	“Um, fine,” you reply<<if _underwear>>, reluctantly pulling on your <<if _underwear.female>>panties<<else>>boxers<<endif>> and clothes<<endif>>, ignoring your engorged penis.
 
-	From $friends expression<<if $friendG.gender == "M">> and the cylindrical bulge in the front of his sweatpants, <<elseif $friendG.gender == "T">>, the cylindrical bulge in the front of his skirt, and the way he gingerly walks across the room, <<else>>, and the way she sways gingerly across the room, <<endif>>you figure $friendG.he_she has geared up too. Following $friendG.him_her cautiously to the desks, you wonder how you managed to get here, from kids growing up playing <<if $friendG.gender == "M">>cops and robbers<<else>>doctors and nurses<<endif>>.
+	From $friend’s expression<<if $friendG.gender == "M">> and the cylindrical bulge in the front of his sweatpants, <<elseif $friendG.gender == "T">>, the cylindrical bulge in the front of his skirt, and the way he gingerly walks across the room, <<else>>, and the way she sways gingerly across the room, <<endif>>you figure $friendG.he_she has geared up too. Following $friendG.him_her cautiously to the desks, you wonder how you managed to get here, from kids growing up playing <<if $friendG.gender == "M">>cops and robbers<<else>>doctors and nurses<<endif>>.
 
 	After wriggling until you are comfortable in the plush gaming chair and finding an angle with one foot on the seat to avoid pressure on the plug, you launch into the game. Your cute human healer is where you left her, close to a fighting zone. $friend sets off towards a good hunting spot, and you follow, not a murmur from the plug. 
 
